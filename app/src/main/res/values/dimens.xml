@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text10sp">10sp</dimen>
+    <dimen name="text12sp">12sp</dimen>
+    <dimen name="text14sp">14sp</dimen>
+    <dimen name="text16sp">16sp</dimen>
+    <dimen name="text18sp">18sp</dimen>
+    <dimen name="text20sp">20sp</dimen>
+    <dimen name="text22sp">22sp</dimen>
+    <dimen name="text25sp">25sp</dimen>
+
+
+    <dimen name="padding_05">05dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_13">13dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+
+
+    <dimen name="margin_05">05dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+
+    <dimen name="splash_icon_size">130dip</dimen>
+    <dimen name="button_width">300dip</dimen>
+    <dimen name="button_height">40dip</dimen>
+    <dimen name="border_edge_radius">5dp</dimen>
+</resources>

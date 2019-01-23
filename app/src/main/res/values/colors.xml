@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="fully_transparent_color">#00000000</color>
+    <color name="bg_main_color">#FFFFFF</color>
+    <color name="bg_black_color">#000000</color>
+    <color name="bg_white_color">#FFFFFF</color>
+    <color name="bg_currency_color">#0ac4ba</color>
+    <color name="bg_shadow_color">#f0f1f5</color>
+    <color name="bg_unselected_strock_color">#f0f0f0</color>
+
+    <color name="text_white_color">#FFFFFF</color>
+    <color name="text_black_color">#000000</color>
+
+    <color name="text_Conversion_color">#0ac4ba</color>
+    <color name="text_Bitcoin_color">#323643</color>
+    <color name="text_enter_name_color">#c5ccd6</color>
+
+    <color name="text_green_color">#00b667</color>
+    <color name="text_red_color">#da2b2b</color>
+
+</resources>
